@@ -9,5 +9,5 @@
 ### During sort
 ![clone images](/sorting.png)
 
-### Sorting Completed
+### Sorting Completed.
 ![clone images](/sorting-visulaizer.png)
